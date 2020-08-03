@@ -1,0 +1,295 @@
+[13-Jun-2020 02:44:23 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/index.php:13) in /home/samaacco/public_html/webapp/index.php on line 17
+[13-Jun-2020 02:53:38 Asia/Tehran] PHP Warning:  mysqli::query(): Empty query in /home/samaacco/public_html/webapp/index.php on line 8
+[13-Jun-2020 03:21:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/samaacco/public_html/webapp/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/samaacco/public_html/webapp/index.php on line 10
+[13-Jun-2020 13:45:53 Asia/Tehran] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/samaacco/public_html/webapp/foroshgah.php on line 84
+[13-Jun-2020 13:45:53 Asia/Tehran] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/samaacco/public_html/webapp/foroshgah.php on line 84
+[13-Jun-2020 13:45:53 Asia/Tehran] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/samaacco/public_html/webapp/foroshgah.php on line 84
+[13-Jun-2020 13:45:53 Asia/Tehran] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/samaacco/public_html/webapp/foroshgah.php on line 91
+[13-Jun-2020 13:45:53 Asia/Tehran] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/samaacco/public_html/webapp/foroshgah.php on line 94
+[13-Jun-2020 13:45:53 Asia/Tehran] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/samaacco/public_html/webapp/foroshgah.php on line 96
+[14-Jun-2020 00:24:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/samaacco/public_html/webapp/foroshgah.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/samaacco/public_html/webapp/foroshgah.php on line 37
+[14-Jun-2020 00:33:28 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/samaacco/public_html/webapp/foroshgah.php on line 11
+[14-Jun-2020 01:28:54 Asia/Tehran] PHP Parse error:  syntax error, unexpected '{' in /home/samaacco/public_html/webapp/foroshgah.php on line 106
+[14-Jun-2020 03:05:06 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samaacco/public_html/webapp/foroshgah.php on line 17
+[14-Jun-2020 03:07:57 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samaacco/public_html/webapp/foroshgah.php on line 17
+[14-Jun-2020 03:08:04 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samaacco/public_html/webapp/foroshgah.php on line 17
+[14-Jun-2020 03:09:09 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samaacco/public_html/webapp/foroshgah.php on line 22
+[14-Jun-2020 03:09:11 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samaacco/public_html/webapp/foroshgah.php on line 22
+[14-Jun-2020 03:11:08 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samaacco/public_html/webapp/foroshgah.php on line 17
+[14-Jun-2020 03:11:10 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samaacco/public_html/webapp/foroshgah.php on line 17
+[14-Jun-2020 03:11:15 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/samaacco/public_html/webapp/foroshgah.php on line 17
+[14-Jun-2020 03:48:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Cannot write property in /home/samaacco/public_html/webapp/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/samaacco/public_html/webapp/index.php on line 7
+[14-Jun-2020 04:03:50 Asia/Tehran] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/samaacco/public_html/webapp/index.php on line 8
+[16-Jun-2020 15:12:21 Asia/Tehran] PHP Parse error:  syntax error, unexpected '<' in /home/samaacco/public_html/webapp/sefo.php on line 88
+[18-Jun-2020 12:50:46 Asia/Tehran] PHP Warning:  include(data/addsaller..php): failed to open stream: No such file or directory in /home/samaacco/public_html/webapp/foroshgah.php on line 107
+[18-Jun-2020 12:50:46 Asia/Tehran] PHP Warning:  include(data/addsaller..php): failed to open stream: No such file or directory in /home/samaacco/public_html/webapp/foroshgah.php on line 107
+[18-Jun-2020 12:50:46 Asia/Tehran] PHP Warning:  include(): Failed opening 'data/addsaller..php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/samaacco/public_html/webapp/foroshgah.php on line 107
+[18-Jun-2020 16:09:20 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting ',' or ';' in /home/samaacco/public_html/webapp/sefo.php on line 87
+[21-Jun-2020 17:26:59 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 13
+[21-Jun-2020 17:26:59 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/addmosar.php on line 13
+[21-Jun-2020 17:26:59 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 14
+[21-Jun-2020 17:26:59 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 15
+[21-Jun-2020 17:26:59 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 17
+[25-Jun-2020 14:51:55 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 104
+[25-Jun-2020 14:51:55 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 105
+[25-Jun-2020 14:51:55 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 106
+[27-Jun-2020 16:13:26 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 104
+[27-Jun-2020 16:13:26 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 105
+[27-Jun-2020 16:13:26 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 106
+[28-Jun-2020 03:35:30 Asia/Tehran] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/samaacco/public_html/webapp/dashbord.php on line 200
+[28-Jun-2020 03:35:56 Asia/Tehran] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/samaacco/public_html/webapp/dashbord.php on line 200
+[28-Jun-2020 03:35:59 Asia/Tehran] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/samaacco/public_html/webapp/dashbord.php on line 200
+[28-Jun-2020 03:40:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/samaacco/public_html/webapp/dashbord.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/samaacco/public_html/webapp/dashbord.php on line 200
+[28-Jun-2020 03:40:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/samaacco/public_html/webapp/dashbord.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/samaacco/public_html/webapp/dashbord.php on line 200
+[28-Jun-2020 03:41:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/samaacco/public_html/webapp/dashbord.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/samaacco/public_html/webapp/dashbord.php on line 200
+[28-Jun-2020 03:41:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/samaacco/public_html/webapp/dashbord.php:200
+Stack trace:
+#0 {main}
+  thrown in /home/samaacco/public_html/webapp/dashbord.php on line 200
+[28-Jun-2020 03:49:00 Asia/Tehran] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/samaacco/public_html/webapp/dashbord.php on line 207
+[28-Jun-2020 03:52:13 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/samaacco/public_html/webapp/dashbord.php on line 202
+[28-Jun-2020 03:54:35 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/samaacco/public_html/webapp/dashbord.php on line 202
+[04-Jul-2020 15:17:49 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 104
+[04-Jul-2020 15:17:49 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 105
+[04-Jul-2020 15:17:49 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 106
+[04-Jul-2020 15:18:18 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 104
+[04-Jul-2020 15:18:18 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 105
+[04-Jul-2020 15:18:18 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 106
+[11-Jul-2020 00:02:22 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 14
+[11-Jul-2020 00:02:22 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 14
+[11-Jul-2020 00:02:22 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 15
+[11-Jul-2020 00:02:22 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 00:02:22 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:02:22 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:02:22 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:02:22 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:02:22 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:02:22 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 33
+[11-Jul-2020 00:03:04 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 14
+[11-Jul-2020 00:03:04 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 14
+[11-Jul-2020 00:03:04 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 15
+[11-Jul-2020 00:03:04 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 00:03:04 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:03:04 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:03:04 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:03:04 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:03:04 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:03:04 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 33
+[11-Jul-2020 00:03:49 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 87
+[11-Jul-2020 00:03:49 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 89
+[11-Jul-2020 00:03:56 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 87
+[11-Jul-2020 00:03:56 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 89
+[11-Jul-2020 00:04:11 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 87
+[11-Jul-2020 00:04:11 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 89
+[11-Jul-2020 00:10:34 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 14
+[11-Jul-2020 00:10:34 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 14
+[11-Jul-2020 00:10:34 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 15
+[11-Jul-2020 00:10:34 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 00:10:34 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:10:34 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:10:34 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:10:34 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:10:34 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:10:34 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 33
+[11-Jul-2020 00:11:45 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 14
+[11-Jul-2020 00:11:45 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 14
+[11-Jul-2020 00:11:45 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 15
+[11-Jul-2020 00:11:45 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 00:11:45 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:11:45 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:11:45 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:11:45 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:11:45 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 16
+[11-Jul-2020 00:17:39 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 15
+[11-Jul-2020 00:17:39 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 15
+[11-Jul-2020 00:17:39 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 17
+[11-Jul-2020 00:17:39 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 20
+[11-Jul-2020 00:17:39 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 00:17:39 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 00:17:39 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 00:17:39 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 00:17:39 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 14:10:24 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 15
+[11-Jul-2020 14:10:24 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 15
+[11-Jul-2020 14:10:24 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 17
+[11-Jul-2020 14:10:24 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 20
+[11-Jul-2020 14:10:24 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 14:10:24 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 14:10:24 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 14:10:24 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 14:10:24 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 18
+[11-Jul-2020 14:30:59 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 24
+[11-Jul-2020 14:31:52 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[11-Jul-2020 14:32:49 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[11-Jul-2020 14:35:07 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[11-Jul-2020 14:36:17 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:25:09 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:26:58 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:27:05 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:27:34 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:28:05 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:28:27 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:29:11 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:29:15 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:29:22 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:30:43 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 27
+[12-Jul-2020 00:30:47 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 27
+[12-Jul-2020 00:31:48 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 28
+[12-Jul-2020 00:33:35 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:33:42 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:33:46 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 00:33:48 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 01:14:29 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 01:14:38 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 01:14:41 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 01:23:58 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 24
+[12-Jul-2020 01:57:28 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 25
+[12-Jul-2020 01:57:28 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 27
+[12-Jul-2020 01:57:59 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 87
+[12-Jul-2020 01:57:59 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 89
+[12-Jul-2020 02:16:45 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 02:19:08 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 39
+[12-Jul-2020 02:19:08 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 42
+[12-Jul-2020 02:19:08 Asia/Tehran] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 44
+[12-Jul-2020 02:19:52 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 39
+[12-Jul-2020 02:19:52 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 42
+[12-Jul-2020 02:20:06 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 39
+[12-Jul-2020 02:20:06 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 42
+[12-Jul-2020 02:21:35 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 39
+[12-Jul-2020 02:21:35 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 42
+[12-Jul-2020 02:22:49 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 38
+[12-Jul-2020 02:22:49 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 41
+[12-Jul-2020 02:25:50 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 38
+[12-Jul-2020 02:25:50 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 41
+[12-Jul-2020 02:26:47 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 38
+[12-Jul-2020 02:26:47 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 41
+[12-Jul-2020 02:26:54 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 38
+[12-Jul-2020 02:26:54 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/edit.php on line 41
+[12-Jul-2020 02:32:05 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/edit.php on line 29
+[12-Jul-2020 02:32:05 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/edit.php on line 31
+[12-Jul-2020 02:49:16 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 87
+[12-Jul-2020 02:49:16 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 89
+[12-Jul-2020 02:49:32 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/showdf.php:1) in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 02:50:08 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/showdf.php:1) in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 02:51:33 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/showdf.php:1) in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 02:53:23 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/showdf.php:1) in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 02:54:01 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/showdf.php:1) in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 02:54:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/showdf.php:1) in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 02:54:52 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/showdf.php:1) in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 02:54:56 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/showdf.php:1) in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 02:58:03 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/showdf.php:1) in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 02:59:43 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/samaacco/public_html/webapp/showdf.php:1) in /home/samaacco/public_html/webapp/data/edit.php on line 36
+[12-Jul-2020 14:46:51 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 25
+[12-Jul-2020 14:46:51 Asia/Tehran] PHP Warning:  main(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 28
+[12-Jul-2020 14:46:51 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 31
+[12-Jul-2020 14:48:04 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 25
+[12-Jul-2020 14:48:04 Asia/Tehran] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 28
+[12-Jul-2020 14:48:04 Asia/Tehran] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 30
+[12-Jul-2020 14:50:43 Asia/Tehran] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 26
+[12-Jul-2020 14:50:43 Asia/Tehran] PHP Warning:  main(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 29
+[12-Jul-2020 14:50:43 Asia/Tehran] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 32
+[12-Jul-2020 14:52:54 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 25
+[12-Jul-2020 14:52:54 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 28
+[12-Jul-2020 14:52:54 Asia/Tehran] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 30
+[12-Jul-2020 14:53:19 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 25
+[12-Jul-2020 14:53:19 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 28
+[12-Jul-2020 14:53:19 Asia/Tehran] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 30
+[12-Jul-2020 15:01:13 Asia/Tehran] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 25
+[12-Jul-2020 15:01:13 Asia/Tehran] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 28
+[12-Jul-2020 15:01:13 Asia/Tehran] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/samaacco/public_html/webapp/data/addfo.php on line 30
+[14-Jul-2020 00:10:49 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addfo.php on line 8
+[14-Jul-2020 00:26:49 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home/samaacco/public_html/webapp/data/addmosar.php on line 42
+[14-Jul-2020 01:19:40 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 13
+[14-Jul-2020 01:19:40 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 13
+[14-Jul-2020 01:19:40 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/addmosar.php on line 13
+[14-Jul-2020 01:19:40 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 14
+[14-Jul-2020 01:19:40 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 15
+[14-Jul-2020 01:19:40 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 16
+[14-Jul-2020 01:19:40 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 17
+[14-Jul-2020 01:19:40 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/addmosar.php on line 17
+[14-Jul-2020 01:41:12 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 87
+[14-Jul-2020 01:41:12 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 88
+[14-Jul-2020 01:41:12 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 89
+[14-Jul-2020 13:22:15 Asia/Tehran] PHP Parse error:  syntax error, unexpected '=' in /home/samaacco/public_html/webapp/mosar.php on line 26
+[14-Jul-2020 17:37:24 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[14-Jul-2020 17:37:24 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 119
+[14-Jul-2020 17:37:24 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 120
+[14-Jul-2020 23:40:46 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[14-Jul-2020 23:40:46 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 119
+[14-Jul-2020 23:40:46 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 120
+[14-Jul-2020 23:40:53 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[14-Jul-2020 23:40:53 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 119
+[14-Jul-2020 23:40:53 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 120
+[15-Jul-2020 01:53:31 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/newaddmo.php on line 15
+[15-Jul-2020 01:53:31 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/newaddmo.php on line 16
+[15-Jul-2020 01:53:31 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/newaddmo.php on line 18
+[15-Jul-2020 02:00:33 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[15-Jul-2020 02:00:33 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 119
+[15-Jul-2020 02:00:33 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 120
+[15-Jul-2020 02:00:51 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[15-Jul-2020 02:00:51 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 119
+[15-Jul-2020 02:00:51 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 120
+[15-Jul-2020 02:01:01 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[15-Jul-2020 02:01:01 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 119
+[15-Jul-2020 02:01:01 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 120
+[15-Jul-2020 02:01:05 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[15-Jul-2020 02:01:05 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 119
+[15-Jul-2020 02:01:05 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 120
+[15-Jul-2020 02:01:29 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[15-Jul-2020 02:01:29 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 119
+[15-Jul-2020 02:01:29 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 120
+[15-Jul-2020 02:09:59 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[15-Jul-2020 02:09:59 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 119
+[15-Jul-2020 02:09:59 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 120
+[15-Jul-2020 02:12:37 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/newaddmo.php on line 15
+[15-Jul-2020 02:12:37 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/newaddmo.php on line 17
+[15-Jul-2020 02:12:37 Asia/Tehran] PHP Warning:  Division by zero in /home/samaacco/public_html/webapp/data/newaddmo.php on line 17
+[15-Jul-2020 02:12:37 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/newaddmo.php on line 18
+[15-Jul-2020 02:12:37 Asia/Tehran] PHP Warning:  A non-numeric value encountered in /home/samaacco/public_html/webapp/data/newaddmo.php on line 19
+[16-Jul-2020 12:08:12 Asia/Tehran] PHP Warning:  include(data/sso.php): failed to open stream: No such file or directory in /home/samaacco/public_html/webapp/mosar.php on line 89
+[16-Jul-2020 12:08:12 Asia/Tehran] PHP Warning:  include(data/sso.php): failed to open stream: No such file or directory in /home/samaacco/public_html/webapp/mosar.php on line 89
+[16-Jul-2020 12:08:12 Asia/Tehran] PHP Warning:  include(): Failed opening 'data/sso.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/samaacco/public_html/webapp/mosar.php on line 89
+[22-Jul-2020 16:58:35 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 116
+[22-Jul-2020 16:58:35 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 117
+[22-Jul-2020 16:58:35 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[22-Jul-2020 16:58:41 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 116
+[22-Jul-2020 16:58:41 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 117
+[22-Jul-2020 16:58:41 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[22-Jul-2020 16:58:51 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 116
+[22-Jul-2020 16:58:51 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 117
+[22-Jul-2020 16:58:51 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[24-Jul-2020 15:45:48 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 116
+[24-Jul-2020 15:45:48 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 117
+[24-Jul-2020 15:45:48 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[24-Jul-2020 15:45:52 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 116
+[24-Jul-2020 15:45:52 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 117
+[24-Jul-2020 15:45:52 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[24-Jul-2020 15:46:06 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 116
+[24-Jul-2020 15:46:06 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 117
+[24-Jul-2020 15:46:06 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[24-Jul-2020 15:51:07 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 116
+[24-Jul-2020 15:51:07 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 117
+[24-Jul-2020 15:51:07 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[24-Jul-2020 15:51:22 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 116
+[24-Jul-2020 15:51:22 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
+[24-Jul-2020 15:51:27 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 116
+[24-Jul-2020 15:51:27 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 117
+[24-Jul-2020 15:51:27 Asia/Tehran] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/samaacco/public_html/webapp/showds.php on line 118
